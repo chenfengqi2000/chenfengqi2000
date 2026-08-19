@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="104" viewBox="0 0 900 104" role="img" aria-labelledby="title description">
+  <title id="title">Fengqi Chen - AI Full-Stack Engineer</title>
+  <desc id="description">Animated introduction showing professional focus and job interests.</desc>
+
+  <style>
+    .name {
+      fill: #1f2328;
+      font: 700 27px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+    .role {
+      fill: #0969da;
+      font: 600 21px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+    }
+    .cursor { fill: #0969da; }
+
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #f0f6fc; }
+      .role, .cursor { fill: #58a6ff; }
+    }
+  </style>
+
+  <text class="name" x="450" y="35" text-anchor="middle">Hi, I'm Fengqi Chen.</text>
+
+  <g opacity="1">
+    <text class="role" x="450" y="78" text-anchor="middle">AI Full-Stack Engineer</text>
+    <rect class="cursor" x="585" y="58" width="3" height="25">
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+    </rect>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.29;0.33;1" dur="9s" repeatCount="indefinite" />
+  </g>
+
+  <g opacity="0">
+    <text class="role" x="450" y="78" text-anchor="middle">Building Human-Centered AI Products</text>
+    <rect class="cursor" x="679" y="58" width="3" height="25">
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+    </rect>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.37;0.62;0.66;1" dur="9s" repeatCount="indefinite" />
+  </g>
+
+  <g opacity="0">
+    <text class="role" x="450" y="78" text-anchor="middle">Open to AI &amp; Full-Stack Opportunities</text>
+    <rect class="cursor" x="695" y="58" width="3" height="25">
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+    </rect>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.70;0.96;1" dur="9s" repeatCount="indefinite" />
+  </g>
+</svg>

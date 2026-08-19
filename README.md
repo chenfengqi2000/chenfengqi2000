@@ -1,8 +1,14 @@
 <div align="center">
 
-# Hi, I'm meow社区 👋
+<img src="./assets/intro.svg" width="900" alt="Hi, I'm Fengqi Chen. AI Full-Stack Engineer." />
 
-Building human-centered AI products, creative tools, and practical full-stack applications.
+<strong>Currently focused on generative AI products, multimodal creation workflows, and production-ready full-stack applications.</strong>
+
+<br/><br/>
+
+<code>Open to AI Engineer and Full-Stack Engineer opportunities</code>
+
+<br/><br/>
 
 [**Try AI Phone Case Studio**](https://flowercrown.store) · [**Explore the Atelier case study**](https://github.com/chenfengqi2000/atelier-ai-phone-case) · [**View Exhibition Translator**](https://github.com/chenfengqi2000/exhibition_translator)
 
