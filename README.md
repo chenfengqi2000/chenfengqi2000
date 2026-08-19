@@ -1,45 +1,55 @@
 <div align="center">
 
-<img src="./assets/intro.svg" width="900" alt="Hi, I'm Fengqi Chen. AI Full-Stack Engineer." />
+<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&amp;weight=700&amp;size=18&amp;duration=2800&amp;pause=1200&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=32&amp;lines=Hi%2C+I'm+Fengqi+Chen.+AI+Full-Stack+Engineer" alt="Hi, I'm Fengqi Chen. AI Full-Stack Engineer." />
 
-<strong>Currently focused on generative AI products, multimodal creation workflows, and production-ready full-stack applications.</strong>
+<p><strong>Currently building human-centered generative AI products and multimodal full-stack applications.</strong></p>
 
-<br/><br/>
-
-<code>Open to AI Engineer and Full-Stack Engineer opportunities</code>
-
-<br/><br/>
-
-[**Try AI Phone Case Studio**](https://flowercrown.store) · [**Explore the Atelier case study**](https://github.com/chenfengqi2000/atelier-ai-phone-case) · [**View Exhibition Translator**](https://github.com/chenfengqi2000/exhibition_translator)
+<p>
+  <code>🎯 Open to AI Engineer / Full-Stack Engineer roles</code>
+  <code>📍 China</code>
+</p>
 
 </div>
 
-## Featured projects
+<table>
+<tr>
+<td valign="top" width="58%">
 
-### 🎨 AI Phone Case Studio
+<h3>🚀 Featured Work</h3>
 
-An AI-assisted workspace for creating, refining, and previewing personalized phone-case designs. The product combines text and image generation, localized Remix editing, design history, feedback collection, and interactive 2D/3D previews in one workflow.
+<p>
+  <strong>🎨 Atelier — AI Phone Case Studio</strong><br/>
+  AI-assisted generation, selected-area Remix, design history, and interactive 2D/3D product previews.<br/>
+  <a href="https://flowercrown.store">Live Demo</a> · <a href="https://github.com/chenfengqi2000/atelier-ai-phone-case">Case Study</a>
+</p>
 
-**Highlights:** React, Flask, PostgreSQL, AI image generation and editing, multilingual UI, interactive 3D preview
+<p>
+  <strong>🌍 Exhibition Translator</strong><br/>
+  A Flutter and Flask platform for translation requests, quotes, orders, chat, reviews, and after-sales workflows.<br/>
+  <a href="https://github.com/chenfengqi2000/exhibition_translator">View Repository</a>
+</p>
 
-**Live product:** [flowercrown.store](https://flowercrown.store)
+</td>
+<td valign="top" width="42%">
 
-**Project showcase:** [chenfengqi2000/atelier-ai-phone-case](https://github.com/chenfengqi2000/atelier-ai-phone-case)
+<h3>🧠 Current Focus</h3>
 
-### 🌍 Exhibition Translator
+<p>
+  Generative AI products<br/>
+  Multimodal creation workflows<br/>
+  Human-in-the-loop AI experiences<br/>
+  Production-ready full-stack systems
+</p>
 
-A Flutter and Flask service platform designed for companies seeking exhibition translators. It supports role-based onboarding, translation requests, quotes, orders, availability, chat, notifications, reviews, and after-sales workflows.
+<h3>🛠 Core Stack</h3>
 
-**Highlights:** Flutter, Dart, Flask, REST APIs, role-based workflows  
-**Repository:** [chenfengqi2000/exhibition_translator](https://github.com/chenfengqi2000/exhibition_translator)
+<p>
+  <code>TypeScript</code> <code>React</code><br/>
+  <code>Python</code> <code>Flask</code><br/>
+  <code>PostgreSQL</code> <code>Three.js</code><br/>
+  <code>Flutter</code> <code>Dart</code>
+</p>
 
-## What I build
-
-- Human-centered AI product experiences
-- Creative tools with visible, iterative workflows
-- Full-stack web and mobile applications
-- Multilingual interfaces and structured user journeys
-
-## Technologies
-
-`TypeScript` · `React` · `Python` · `Flask` · `Flutter` · `Dart` · `PostgreSQL`
+</td>
+</tr>
+</table>
