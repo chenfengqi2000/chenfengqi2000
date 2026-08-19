@@ -14,8 +14,10 @@ Building human-centered AI products, creative tools, and practical full-stack ap
 
 An AI-assisted workspace for creating, refining, and previewing personalized phone-case designs. The product combines text and image generation, localized Remix editing, design history, feedback collection, and interactive 2D/3D previews in one workflow.
 
-**Highlights:** React, Flask, PostgreSQL, AI image generation and editing, multilingual UI, interactive 3D preview  
-**Live product:** [flowercrown.store](https://flowercrown.store)  
+**Highlights:** React, Flask, PostgreSQL, AI image generation and editing, multilingual UI, interactive 3D preview
+
+**Live product:** [flowercrown.store](https://flowercrown.store)
+
 **Project showcase:** [chenfengqi2000/atelier-ai-phone-case](https://github.com/chenfengqi2000/atelier-ai-phone-case)
 
 ### 🌍 Exhibition Translator
